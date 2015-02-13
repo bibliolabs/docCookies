@@ -56,3 +56,5 @@ var docCookies = {
     return aKeys;
   }
 };
+
+return docCookies;
