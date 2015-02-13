@@ -1,7 +1,7 @@
 {
-  "name": "docCookies",
+  "name": "doc-cookies",
   "version": "0.0.0",
-  "description": "",
+  "description": "A complete cookies reader/writer framework with full unicode support.",
   "main": "dist/docCookies.js",
   "scripts": {
     "dist": "./node_modules/umd/bin/cli.js docCookies docCookies.js dist/docCookies.js",
@@ -11,7 +11,7 @@
     "type": "git",
     "url": "https://github.com/evanmuller/docCookies.git"
   },
-  "author": "Evan Muller",
+  "author": "",
   "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/evanmuller/docCookies/issues"
