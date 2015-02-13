@@ -1,6 +1,6 @@
 {
   "name": "doc-cookies",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A complete cookies reader/writer framework with full unicode support.",
   "main": "dist/docCookies.js",
   "scripts": {
