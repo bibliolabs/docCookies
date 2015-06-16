@@ -1,6 +1,6 @@
 {
   "name": "doc-cookies",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "description": "A complete cookies reader/writer framework with full unicode support",
   "author": "",
   "homepage": "https://github.com/evanmuller/docCookies",
