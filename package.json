@@ -13,8 +13,7 @@
   },
   "main": "dist/docCookies.js",
   "scripts": {
-    "dist": "./node_modules/umd/bin/cli.js docCookies docCookies.js dist/docCookies.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dist": "./node_modules/umd/bin/cli.js docCookies docCookies.js dist/docCookies.js"
   },
   "license": "GPL-3.0",
   "devDependencies": {
