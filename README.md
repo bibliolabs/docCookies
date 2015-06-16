@@ -1,4 +1,4 @@
-> *This module was taken from a [code snippet](https://developer.mozilla.org/en-US/docs/Web/API/document/cookie#A_little_framework.3A_a_complete_cookies_reader.2Fwriter_with_full_unicode_support) on the MDN docs for `document.cookie`. It has been published as an npm module to facilitate use.*
+> *This module was taken from a [code snippet](https://developer.mozilla.org/en-US/docs/Web/API/document/cookie#A_little_framework.3A_a_complete_cookies_reader.2Fwriter_with_full_unicode_support) on the MDN docs for `document.cookie` which was in turn based on [a gist](https://gist.github.com/jonmagic/9521363). It has been published as an npm module to facilitate use.*
 
 # doc-cookies
 A little framework: a complete cookies reader/writer with full unicode support
