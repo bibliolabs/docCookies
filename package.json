@@ -16,6 +16,11 @@
     "prepublish": "umd $npm_package_name docCookies.js $npm_package_main"
   },
   "license": "GPL-3.0",
+  "keywords": [
+    "mozilla",
+    "cookie",
+    "browser"
+  ],
   "devDependencies": {
     "umd": "^3.0.0"
   }
