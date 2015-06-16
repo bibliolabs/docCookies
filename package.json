@@ -12,6 +12,10 @@
     "url": "https://github.com/evanmuller/docCookies/issues"
   },
   "main": "dist/docCookies.js",
+  "files": [
+    "docCookies.js",
+    "dist/docCookies.js"
+  ],
   "scripts": {
     "prepublish": "umd $npm_package_name docCookies.js $npm_package_main"
   },
