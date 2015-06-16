@@ -11,10 +11,10 @@
   "bugs": {
     "url": "https://github.com/evanmuller/docCookies/issues"
   },
-  "main": "dist/docCookies.js",
+  "main": "docCookies.umd.js",
   "files": [
     "docCookies.js",
-    "dist/docCookies.js"
+    "docCookies.umd.js"
   ],
   "scripts": {
     "prepublish": "umd $npm_package_name $npm_package_files_0 $npm_package_main"
