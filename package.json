@@ -13,7 +13,7 @@
   },
   "main": "dist/docCookies.js",
   "scripts": {
-    "dist": "umd docCookies docCookies.js dist/docCookies.js"
+    "dist": "umd $npm_package_name docCookies.js dist/docCookies.js"
   },
   "license": "GPL-3.0",
   "devDependencies": {
