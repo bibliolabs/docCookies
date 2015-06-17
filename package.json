@@ -2,7 +2,7 @@
   "name": "doc-cookies",
   "version": "0.0.2",
   "description": "A complete cookies reader/writer framework with full unicode support",
-  "author": "",
+  "author": "fusionchess (https://developer.mozilla.org/en-US/docs/User:fusionchess)",
   "homepage": "https://github.com/evanmuller/docCookies",
   "repository": {
     "type": "git",
