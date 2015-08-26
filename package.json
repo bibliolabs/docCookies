@@ -4,7 +4,6 @@
   "description": "A complete cookies reader/writer framework with full unicode support",
   "author": "fusionchess (https://developer.mozilla.org/en-US/docs/User:fusionchess)",
   "contributors": [
-    "Evan Muller <evanmuller@gmail.com> (http://evanmuller.com)",
     "Jason Karns <jason@karns.name> (http://jason.karns.name)",
     "BiblioLabs LLC. <it@bibliolabs.com> (http://www.biblioboard.com)"
   ],
