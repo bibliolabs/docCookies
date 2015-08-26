@@ -5,15 +5,16 @@
   "author": "fusionchess (https://developer.mozilla.org/en-US/docs/User:fusionchess)",
   "contributors": [
     "Evan Muller <evanmuller@gmail.com> (http://evanmuller.com)",
-    "Jason Karns <jason@karns.name> (http://jason.karns.name)"
+    "Jason Karns <jason@karns.name> (http://jason.karns.name)",
+    "BiblioLabs LLC. <it@bibliolabs.com> (http://www.biblioboard.com)"
   ],
-  "homepage": "https://github.com/evanmuller/docCookies",
+  "homepage": "https://github.com/bibliolabs/docCookies",
   "repository": {
     "type": "git",
-    "url": "https://github.com/evanmuller/docCookies.git"
+    "url": "https://github.com/bibliolabs/docCookies.git"
   },
   "bugs": {
-    "url": "https://github.com/evanmuller/docCookies/issues"
+    "url": "https://github.com/bibliolabs/docCookies/issues"
   },
   "main": "docCookies.umd.js",
   "files": [
